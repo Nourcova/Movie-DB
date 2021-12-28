@@ -1,0 +1,33 @@
+{
+  "name": "movie-db",
+  "version": "1.0.0",
+  "description": "A project about Express, Nodjs and API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nourcova/Movie-DB.git"
+  },
+  "keywords": [
+    "API",
+    "Express",
+    "NodeJS",
+    "JSON",
+    "REST"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nourcova/Movie-DB/issues"
+  },
+  "homepage": "https://github.com/Nourcova/Movie-DB#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
